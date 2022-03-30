@@ -1,0 +1,23 @@
+{
+  "name": "software-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrjuda/software-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrjuda/software-test/issues"
+  },
+  "homepage": "https://github.com/mrjuda/software-test#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
