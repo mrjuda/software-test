@@ -2,7 +2,7 @@
   "name": "software-test",
   "version": "1.0.0",
   "description": "",
-  "main": "sum.js",
+  "main": "string-size.js",
   "scripts": {
     "test": "jest"
   },
