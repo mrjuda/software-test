@@ -1,12 +1,10 @@
 // reverse-string.js
 
 function reverseString(str) {
-  const strArr = str.split('');
-  const strArrRev = strArr.reverse();
-  const reversedString = strArrRev.join('');
+  const reversedString = str.split("").reverse().join("");
   return reversedString;
 }
 
-console.log(reverseString('aiu'));
+// console.log(reverseString('aiu'));
 
-module.exports reverseString;
+module.exports = reverseString;

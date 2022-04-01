@@ -21,4 +21,4 @@ test('String length is > 10', () => {
   expect(strSize(test3)).toBe('>10 chars');
 });
 
-console.log(strSize(test3));
+// console.log(strSize(test3));
